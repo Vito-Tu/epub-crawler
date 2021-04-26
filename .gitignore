@@ -1,0 +1,10 @@
+data
+.ipynb_checkpoints
+.idea
+temp
+*.html
+*.css
+*.js
+*.jpg
+*.png
+*.jpeg
